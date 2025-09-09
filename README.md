@@ -1,4 +1,3 @@
-```markdown
 # 💳 Project Report: ATM Interface System in Java
 
 ## 🎯 Objective
@@ -66,23 +65,6 @@ To simulate a simple ATM banking system using object-oriented principles in Java
 
 ---
 
-## 📂 Suggested Project Structure
-```
-
-atm-interface-java/
-├─ src/
-│  └─ main/
-│     └─ java/
-│        └─ atm/
-│           ├─ Main.java
-│           ├─ models/
-│           │  ├─ Account.java
-│           │  └─ Transaction.java
-│           └─ services/
-│              └─ BankService.java
-└─ README.md
-
-````
 
 ---
 
@@ -100,14 +82,9 @@ java -cp out atm.Main
 
 ## 📸 Output Screenshots
 
-* Screenshot 2025-08-04 085345
-* Screenshot 2025-08-04 085411
+<img width="1366" height="768" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/9ecaedf0-a04f-44ce-8f79-8aa2121dd749" />
+
+<img width="1366" height="768" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/4355e477-b05b-45ef-9719-ac85a42e8cae" />
 
 ---
 
-## 📄 License
-
-MIT License © 2025 Logesh
-
-```
-```
